@@ -1,0 +1,44 @@
+<package>
+	<id>com.fffdmin.quring</id>
+	<name>Quring</name>
+	<version>1.2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>N/A</package>
+	</dependencies>
+	<descriptionlist>
+		<description>越狱应用图标主题</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<image>2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change><![CDATA[
+		1. 图标新增<br/> 
+		Shu、Thor、Anubis、JSBox、NFCWriter、Altstore(Alpha)、腾讯手机管家、QQ 同步助手、OTP Auth、百度输入法、京东、菜鸟裹裹、QQ 音乐、彩云天气、Bitwarden；
+		]]>
+      </change>
+		<change><![CDATA[
+		2. 图标微调<br/> 
+		Shu、云闪付、淘宝；
+		]]>
+      </change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

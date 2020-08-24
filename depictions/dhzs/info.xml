@@ -1,0 +1,32 @@
+<package>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>N/A</package>
+	</dependencies>
+	<descriptionlist>
+		<description>高达 99% 的完成度，皆为更好的使用 TweetBot</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>1.png</image>
+		</screenshot>		
+		<screenshot>
+			<image>2.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>添加了一些字符串</change>
+		<change>更新 3D-Touch 菜单</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

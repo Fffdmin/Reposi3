@@ -1,0 +1,35 @@
+<package>
+	<id>com.vsz.localssh</id>
+	<version>1.0-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>openssh</package>
+	</dependencies>
+	<descriptionlist>
+		<description>启用ssh到localhost，以安装诸如提示2或Server Auditor之类的应用商店终端客户端。安装新的ssh端口后，将激活50022端口，该端口应在使用终端客户端登录时使用。要通过提示2或Server Auditor连接，请输入 主机地址为127.0.0.1，端口为50022</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change> Cleanup of unnecesary files as well as higher reliability of custom ssh service </change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

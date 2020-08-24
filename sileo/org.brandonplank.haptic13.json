@@ -1,0 +1,99 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://fffdmin.github.io/cydia/sileo/assets/tapic.jpg",
+  "tintColor": "#56EF00",
+  "tabs": [
+    {
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://fffdmin.github.io/cydia/depictions/org.brandonplank.haptic13/screenshots/1.jpg",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://fffdmin.github.io/cydia/depictions/org.brandonplank.haptic13/screenshots/2.jpg",
+              "accessibilityText": "Screenshot"
+            }
+          ],
+          "itemCornerRadius": 8,
+          "itemSize": "{185,400}"
+        },
+        {
+          "markdown": "*Github 扒拉下来的最后一个版本，有新版本尽量做到同步更新*",
+          "useSpacing": "true",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "更多信息"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "开发者",
+          "text": "Plank "
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "0.8"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "兼容性",
+          "text": "iOS 13.0 - 13.3"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "分类",
+          "text": "Tweaks"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "技术支持",
+          "action": "depiction-https://fffdmin.github.io/cydia/sileo/help/help.json",
+          "openExternal": "true",
+          "tintColor": "#573DD8"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "© 2020 fffdmin ❤️",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Changelog"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 0.8\n- Last Release\n- 图标微调 \n### fffdmin：\n- 集成中文"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "© 2020 ffdmin ❤️",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
