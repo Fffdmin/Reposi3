@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://fffdmin.github.io/cydia/sileo/assets/term.jpg",
-  "tintColor": "#46FF00",
+  "tintColor": "#443F00",
   "tabs": [
     {
       "tabname": "详情",
@@ -18,7 +18,7 @@
           "itemSize": "{185,400}"
         },
         {
-          "markdown": "*Github 扒拉下来的最后一个版本，有新版本尽量做到同步更新*",
+          "markdown": "*此插件在 Terminus 某个版本更新后失去了大部分高级功能，但终端标签页在最新版仍然可用*",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
         },
@@ -42,7 +42,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "兼容性",
-          "text": "iOS 13.0 - 13.3"
+          "text": "iOS 12.0 - 13.3"
         },
         {
           "class": "DepictionTableTextView",

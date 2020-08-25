@@ -22,7 +22,7 @@
           "itemSize": "{185,400}"
         },
         {
-          "markdown": "*打包作者放出的最新版本，尽量做到同步更新*",
+          "markdown": "一款精致的图标包，搭配其他微调版主题效果更佳，*打包作者放出的最新版本，尽量做到同步更新*；",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
         },
@@ -77,12 +77,12 @@
       "tabname": "更新日志",
       "views": [
         {
-          "class": "DepictionHeaderView",
-          "title": "Changelog"
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.2.0\n- 图标新增\n- 图标微调"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.2.0\n- 图标新增\n- 图标微调 \n### 1.1.0\n- 图标微调"
+          "markdown": "### 1.1.0\n- 图标微调"
         },
         {
           "class": "DepictionLabelView",
