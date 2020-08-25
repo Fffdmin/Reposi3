@@ -41,7 +41,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "版本",
-          "text": "1.6"
+          "text": "1.2"
         },
         {
           "class": "DepictionTableTextView",
@@ -51,7 +51,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "分类",
-          "text": "Tweaks"
+          "text": "Themes"
         },
         {
           "class": "DepictionSpacerView"
