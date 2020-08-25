@@ -22,7 +22,7 @@
           "itemSize": "{185,400}"
         },
         {
-          "markdown": "一款精致的图标包，搭配其他微调版主题效果更佳，*打包作者放出的最新版本，尽量做到同步更新*；",
+          "markdown": "一款精致的图标包，搭配其他微调版主题效果更佳，**打包作者放出的最新版本，尽量做到同步更新；**",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
         },
@@ -65,7 +65,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "© 2020 John Zarogiannis",
+          "text": "© 2020 fffdmin ❤",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1

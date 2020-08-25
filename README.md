@@ -163,6 +163,10 @@ _Windows users, see [dpkg-scanpackages-py](https://github.com/supermamon/dpkg-sc
 Push your changes again to Github and if you haven't done yet, go ahead and add your repo to Cydia.
 You should now be able to install your tweak into your own repo.
 
+#### 6. Added Sileo support
+
+
+
 ### Cleanup
 
 Just a cleanup step, remove the debs that came with this template and re-run the commands on step 3. You can keep the sample depictions for reference by they're not needed for your repo.

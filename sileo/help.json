@@ -5,51 +5,40 @@
   "views": [
     {
       "class": "DepictionMarkdownView",
-      "markdown": "发送邮件给我（最好不要这样做）"
+      "markdown": "The author 是软件包\"?\"的维护者。如果对这个版本的包裹有任何疑问，可以通过电子邮件联系他"
     },
     {
       "class": "DepictionTableButtonView",
-      "title": "Email",
-      "action": "mailto:no-rep@gmail.com",
-      "openExternal": "true",
-      "tintColor": "#DE7338"
-    },
-    {
-      "class": "DepictionMarkdownView",
-      "markdown": "Johnzaro  is the maintainer of the package \"PerfectBattery\". Please contact them via email for any questions on this version of the package."
-    },
-    {
-      "class": "DepictionTableButtonView",
-      "title": "Email Maintainer",
+      "title": "Email [维护者]",
       "action": "mailto:johnzrgnns@gmail.com",
       "openExternal": "true",
       "tintColor": "#DE7338"
     },
     {
       "class": "DepictionMarkdownView",
-      "markdown": "如果你有好的建议或托管自己的插件，请联系"
+      "markdown": "如果需要托管自己的优质插件，请联系"
     },
     {
       "class": "DepictionTableButtonView",
-      "title": "Email 源管理员",
+      "title": "Email 【源管理员】",
       "action": "mailto:johnzrgnns@gmail.com",
       "openExternal": "true",
       "tintColor": "#DE7338"
     },
     {
       "class": "DepictionMarkdownView",
-      "markdown": "You can also contact the repo owner via the following sites:"
+      "markdown": "您也可以通过以下网站联系软件源管理员&赞助:"
     },
     {
       "class": "DepictionTableButtonView",
-      "title": "🧧 支付宝打赏",
+      "title": "支付宝打赏",
       "action": "alipayqr://platformapi/startapp?saId=10000007&clientVersion=3.7.0.0718&qrcode=https://qr.alipay.com/fkx192594aakishxxmakea0",
       "openExternal": "true",
       "tintColor": "#DE7338"
     },
     {
       "class": "DepictionTableButtonView",
-      "title": "主站点",
+      "title": "主页",
       "action": "https://fffdmin.github.io/cydia",
       "openExternal": "true",
       "tintColor": "#DE7338"

@@ -86,11 +86,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 5.2.0\n- 添加了一些字符串\n-'更新了 3D-Touch 菜单'"
+          "markdown": "### 5.2.0\n- 添加了一些字符串\n- 更新了 3D-Touch 菜单"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 5.14\n- 首次更新 "
+          "markdown": "### 5.14\n- 首次更新"
         },
         {
           "class": "DepictionLabelView",
