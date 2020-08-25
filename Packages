@@ -16,6 +16,29 @@ Installed-Size: 62.9
 Name: Tweetbot 语言包
 SileoDepiction: https://fffdmin.github.io/cydia/sileo/cn.fffdmin.tweetbot.json
 
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.12
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Replaces: 
+Filename: ./pkg/com.cokepokes.appstoreplusplus_0.9.12_iphoneos-arm.deb
+Size: 332120
+MD5sum: 6d69ab7e2aab9bb36abfd1eefe9e4e00
+SHA1: bf05c639cd1f642280cb2a6d3ed981443903fb42
+SHA256: 34a27929687990f0c6a55df2e50d1fd4240970822ac91be07a5b143eb808953d
+Section: Tweaks
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
+Author: CokePokes
+Depiction: https://ffdmin.github.io/cydia/depiction/?p=com.cokepokes.appstoreplusplus
+Homepage: 
+Icon: 
+Name: AppStore++
+Priority: optional
+SileoDepiction: https://fffdmin.github.io/cydia/sileo/com.cokepokes.appstoreplusplus.json
+dev: 
+
 Package: com.evynw.fontmaiposans13
 Version: 1.0
 Architecture: iphoneos-arm
