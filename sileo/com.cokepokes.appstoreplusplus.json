@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://fffdmin.github.io/cydia/sileo/assets/quring.png",
-  "tintColor": "#573DD8",
+  "headerImage": "https://fffdmin.github.io/cydia/sileo/assets/header.jpg",
+  "tintColor": "#0781d7",
   "tabs": [
     {
       "tabname": "详情",
@@ -10,11 +10,11 @@
           "class": "DepictionScreenshotsView",
           "screenshots": [
             {
-              "url": "https://fffdmin.github.io/cydia/depictions/com.fffdmin.quring/screenshots/1.png",
+              "url": "https://fffdmin.github.io/cydia/depictions/com.cokepokes.appstoreplusplus/screenshots/ss1.jpg",
               "accessibilityText": "Screenshot"
             },
             {
-              "url": "https://fffdmin.github.io/cydia/depictions/com.fffdmin.quring/screenshots/2.png",
+              "url": "https://fffdmin.github.io/cydia/depictions/com.cokepokes.appstoreplusplus/screenshots/ss2.jpg",
               "accessibilityText": "Screenshot"
             }
           ],
@@ -22,7 +22,7 @@
           "itemSize": "{185,400}"
         },
         {
-          "markdown": "一款精致的图标包，搭配其他微调版主题效果更佳，**打包作者放出的最新版本，尽量做到同步更新；**",
+          "markdown": "Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
         },
@@ -36,22 +36,22 @@
         {
           "class": "DepictionTableTextView",
           "title": "开发者",
-          "text": "Quring "
+          "text": "fffdmin"
         },
         {
           "class": "DepictionTableTextView",
           "title": "版本",
-          "text": "1.2"
+          "text": "0.9.12"
         },
         {
           "class": "DepictionTableTextView",
           "title": "兼容性",
-          "text": "iOS 10.0 to 13.6"
+          "text": "11.0 - 13.3"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "分类",
-          "text": "Themes"
+          "title": "类型",
+          "text": "Tools"
         },
         {
           "class": "DepictionSpacerView"
@@ -61,7 +61,7 @@
           "title": "技术支持",
           "action": "depiction-https://fffdmin.github.io/cydia/sileo/help.json",
           "openExternal": "true",
-          "tintColor": "#573DD8"
+          "tintColor": "#573DD9"
         },
         {
           "class": "DepictionLabelView",
@@ -78,15 +78,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.2.0\n- 图标新增\n- 图标微调"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### 1.1.0\n- 图标微调"
+          "markdown": "There has no Changelog"
         },
         {
           "class": "DepictionLabelView",
-          "text": "© 2020 ffdmin ❤️",
+          "text": "© 2020 fffdmin ❤",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
