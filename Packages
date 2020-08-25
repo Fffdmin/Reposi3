@@ -2,6 +2,7 @@ Package: cn.fffdmin.tweetbot
 Version: 5.2.0
 Architecture: iphoneos-arm
 Maintainer: fffdmin
+Installed-Size: 62.9
 Filename: ./pkg/cn.fffdmin.tweetbot_5.2.0_iphoneos-arm.deb
 Size: 23864
 MD5sum: b0d48c91c8104cfdb50f47ca502f252c
@@ -12,9 +13,8 @@ Description: 简繁语言包
 Author: fffdmin
 Depiction: https://fffdmin.github.io/cydia/depictions/?p=cn.fffdmin.tweetbot
 Icon: https://tapbots.com/tweetbot/img/appicon@2x.png
-Installed-Size: 62.9
 Name: Tweetbot 语言包
-SileoDepiction: https://fffdmin.github.io/cydia/sileo/cn.fffdmin.tweetbot.json
+Sileodepiction: https://fffdmin.github.io/cydia/sileo/cn.fffdmin.tweetbot.json
 
 Package: com.evynw.fontmaiposans13
 Version: 1.0
@@ -31,7 +31,7 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmaiposans13
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Maipo Sans (iOS13)
-SileoDepiction: https://evynw.github.io/sileo/fontmaiposans13.json
+Sileodepiction: https://evynw.github.io/sileo/fontmaiposans13.json
 
 Package: com.exile90.icleanerpro
 Version: 7.8.3
@@ -46,10 +46,10 @@ MD5sum: 4b7d8409ec744c2f9ea6bd59752c556e
 SHA1: a8affa7035a9b9eaef131e4e11a4e104b25e14cf
 SHA256: 6aa8cfeba7aad3833e7e20ca755e3b7acdd9ad31346f9fd092a0bd3861ad5900
 Section: Utilities
+Homepage: http://ib-soft.net/icleaner
 Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Homepage: http://ib-soft.net/icleaner
 Icon: file:///Applications/iCleaner.app/Icon-76@2x.png
 Name: iCleaner Pro
 
@@ -69,7 +69,7 @@ Author: fffdmin
 Depiction: https://fffdmin.github.io/cydia/depictions/?p=com.fffdmin.quring
 Icon: https://fffdmin.github.io/cydia/depictions/com.fffdmin.quring/screenshots/icon.png
 Name: Quring
-SileoDepiction: https://fffdmin.github.io/cydia/sileo/quringtheme.json
+Sileodepiction: https://fffdmin.github.io/cydia/sileo/quringtheme.json
 
 Package: com.fffdmin.termiussshhk
 Version: 0.0.2
@@ -87,7 +87,7 @@ Author: pxcex
 Depiction: https://fffdmin.github.io/cydia/depictions/?p=com.fffdmin.termiussshhk
 Icon: https://fffdmin.github.io/cydia/depictions/com.fffdmin.termiussshhk/icon.jpg
 Name: Termius SSH Hk
-SileoDepiction: https://fffdmin.github.io/cydia/sileo/com.fffdmin.termiussshhk.json
+Sileodepiction: https://fffdmin.github.io/cydia/sileo/com.fffdmin.termiussshhk.json
 
 Package: com.pixelomer.moderndepictions
 Version: 1.0
@@ -116,13 +116,13 @@ MD5sum: 5b38760f85a8ef64ce7cfcdb4fd5ffd3
 SHA1: e9f86519f22b4d149d169b2715dc7bd3e021cbc1
 SHA256: cff203a81ca463a4de128c3c98438e19cbf3c703e9ac0f847a7d994a2aa6feb0
 Section: Utilities
+Priority: extra
 Description: Enable ssh to localhost for appstore terminal clients such as Prompt 2 or Server Auditor.After installing a new ssh port 50022 will be activated, which should be used when using the Terminal client to log in. To connect through Prompt 2 or Server Auditor, enter the host address as 127.0.0.1 and port as 50022.
 Author: T.Herak <50dc856b@opayq.com>
 Depiction: https://fffdmin.github.io/cydia/depictions/?p=localssh
 Icon: https://fffdmin.github.io/cydia/depictions/localssh/icon.jpg
 Name: LocalSSH
-Priority: extra
-SileoDepiction: https://fffdmin.github.io/cydia/sileo/localssh.json
+Sileodepiction: https://fffdmin.github.io/cydia/sileo/localssh.json
 
 Package: com.xybp888.CallAssist13
 Version: 2.2.3
@@ -135,18 +135,20 @@ MD5sum: 9f8a9d24da30090a9dbbc233d286908d
 SHA1: 9303f1e30fba28e76cf1f407900b7934b14768e5
 SHA256: ab1a8cbe374b1b458ec24a18f8bf4245a09abfc6b730912b04216590ed12d871
 Section: 插件
+Priority: optional
 Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
 Author: xybp888 <8657156@qq.com>
 Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
 Moderndepiction: https://apt.htv123.com/sileo/194
 Name: 电话助手
-Priority: optional
-SileoDepiction: https://apt.htv123.com/sileo/194
+Sileodepiction: https://apt.htv123.com/sileo/194
 
 Package: dpkg-perl
 Version: 1.19.7-2
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1976
+Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: dpkg, perl
 Filename: ./pkg/dpkg-perl_1.19.7-2_iphoneos-arm.deb
 Size: 192756
@@ -154,17 +156,16 @@ MD5sum: 62cbe04a33819f0b5d15daad73279ee5
 SHA1: 21f8a7a93f6654050ab7b690612abe0a48a9fd62
 SHA256: eb2e7bb79be56bc30e60f4e0754d7049987ef467c854a3b250d2760bfa151d44
 Section: Packaging
+Priority: optional
 Description: perl-based package maintainance tools from Debian
 Depiction: https://fffdmin.github.io/cydia/depictions/?p=dpkg-perl
-Installed-Size: 1976
 Name: Debian Packager (Perl)
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: optional
 
 Package: org.brandonplank.haptic13
 Version: 0.8
 Architecture: iphoneos-arm
 Maintainer: Brandon Plank
+Installed-Size: 208
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkapplist (>= 1.0.8)
 Filename: ./pkg/org.brandonplank.haptic13_0.8_iphoneos-arm.deb
 Size: 21992
@@ -175,7 +176,6 @@ Section: Tweaks
 Description: Puts haptics in places apple should have!
 Author: Brandon Plank
 Depiction: https://fffdmin.github.io/cydia/depictions/?p=org.brandonplank.haptic13
-Installed-Size: 208
 Name: Haptic13
-SileoDepiction: https://fffdmin.github.io/cydia/sileo/org.brandonplank.haptic13.json
+Sileodepiction: https://fffdmin.github.io/cydia/sileo/org.brandonplank.haptic13.json
 

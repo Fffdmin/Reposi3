@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "自动扫描插件目录并打包"
-dpkg-scanpackages -m ./pkg > Packages
+# dpkg-scanpackages -m ./pkg > Packages
 bzip2 -fks Packages
 echo "Down !!"
 echo "上传至 Git   =====>"
