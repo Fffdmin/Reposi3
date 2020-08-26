@@ -1,3 +1,21 @@
+Package: cn.fffdmin.lastpass
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: fffdmin
+Filename: ./pkg/cn.fffdmin.lastpass_0.2_iphoneos-arm.deb
+Size: 36220
+MD5sum: 69f2d799161a692dec521728c975fcbb
+SHA1: dbb88e28521f736acac2e56d4d54c35d3986ee16
+SHA256: 17a8e898d0f5a29242cf12f17f1b63a0bd7eb734a744d748bb4f4f0dd6519266
+Section: Localization
+Description: 简繁语言包
+Author: fffdmin
+Depiction: https://fffdmin.github.io/cydia/depictions/?p=cn.fffdmin.lastpass
+Icon: https://fffdmin.github.io/cydia/depictions/cn.fffdmin.lastpassscreenshots/icon.png
+Installed-Size: 80
+Name: LastPass 语言包
+SileoDepiction: https://fffdmin.github.io/cydia/sileo/cn.fffdmin.lastpass.json
+
 Package: cn.fffdmin.tweetbot
 Version: 5.2.0
 Architecture: iphoneos-arm

@@ -78,11 +78,11 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.2.0\n- 图标新增\n- 图标微调"
+          "markdown": "### 1.2.0\n2020-6-18\n- 1. 图标新增：Shu、Thor、Anubis、JSBox、NFCWriter、Altstore(Alpha)、腾讯手机管家、QQ 同步助手、OTP Auth、百度输入法、京东、菜鸟裹裹、QQ 音乐、彩云天气、Bitwarden；\n- 2. 图标微调：Shu、云闪付、淘宝；"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### 1.1.0\n- 图标微调"
+          "markdown": "### 1.1.0\n2020-7-1\n- 1.图标新增：今日头条 Pro x2、今日头条极速版 x2、今天头条、Installer、Filza x2、Slide x2、微软翻译 x2、哔哩哔哩 x4、Working Copy x2、云闪付 x4、Speedtest x2、菜鸟裹裹、Sorted、白描 x2、迅雷 x2；\n- 图标微调：QQ、微信、iCleaner Pro、欧路词典 Pro、中国银行、Spotify、Cydia、Cydown、Sorted、Quantumult X；"
         },
         {
           "class": "DepictionLabelView",
