@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://fffdmin.github.io/cydia/sileo/assets/quring.png",
-  "tintColor": "#573DD8",
+  "tintColor": "#0a9290",
   "tabs": [
     {
       "tabname": "详情",
@@ -58,10 +58,10 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "技术支持",
+          "title": "Support",
           "action": "depiction-https://fffdmin.github.io/cydia/sileo/help.json",
           "openExternal": "true",
-          "tintColor": "#573DD8"
+          "tintColor": "#0a9290"
         },
         {
           "class": "DepictionLabelView",

@@ -1,0 +1,34 @@
+<package>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>N/A</package>
+	</dependencies>
+	<descriptionlist>
+		<description>高达 99% 的完成度，皆为更好的使用 LastPass</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<image>2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>3.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>There has no ChangeLog</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

@@ -65,7 +65,7 @@
           "title": "Support",
           "action": "depiction-https://fffdmin.github.io/cydia/sileo/help.json",
           "openExternal": "true",
-          "tintColor": "#573DD9"
+          "tintColor": "#d32d27"
         },
         {
           "class": "DepictionLabelView",
