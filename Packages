@@ -3,10 +3,10 @@ Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: fffdmin
 Filename: ./pkg/cn.fffdmin.lastpass_0.2_iphoneos-arm.deb
-Size: 36244
-MD5sum: af6e7fe0fa1a697a007f361c8c3e3448
-SHA1: a3f6675e4565f9b1fc4b4e37e9fcca56c5b610fb
-SHA256: fbb963052ca37118088df72a2acc869e0386d04db85f738c70e271feb8ac9115
+Size: 43996
+MD5sum: 33dec8981b18d4226af008ce510f3e41
+SHA1: c02b93ab5b1b2793fffa1ff771819598970ae6a6
+SHA256: 997f8f618e09900bbbee4ea0114a5eb42183aacfce9406b7013b14d2b74f21e6
 Section: Localization
 Description: 简繁语言包
 Author: fffdmin
@@ -129,6 +129,28 @@ Depiction: https://fffdmin.github.io/cydia/depictions/?p=com.fffdmin.termiussshh
 Icon: https://fffdmin.github.io/cydia/depictions/com.fffdmin.termiussshhk/icon.jpg
 Name: Termius SSH Hk
 SileoDepiction: https://fffdmin.github.io/cydia/sileo/com.fffdmin.termiussshhk.json
+
+Package: com.matchstic.reprovision
+Version: 0.5.2~EOL
+Architecture: iphoneos-arm
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Filename: ./pkg/com.matchstic.reprovision_0.5.2_EOL_iphoneos-arm.deb
+Size: 14406348
+MD5sum: 4064144eed72b264038cb91d9e477f1a
+SHA1: 1287ffa0f2919789fc86a96267e8cb3410715ff8
+SHA256: 11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
+Section: System
+Description: Re-sign applications on your device
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Homepage: https://github.com/Matchstic/Extender-Installer
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision
+Priority: optional
+Provides: com.matchstic.Extender-Installer
+dev: Matt Clarke <matt@incendo.ws>
 
 Package: com.pixelomer.moderndepictions
 Version: 1.0
